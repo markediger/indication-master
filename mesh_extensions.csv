@@ -1,0 +1,3 @@
+CHILDDUI,SUPPTERM,PARENTDUI,PARENTTERM,RATIONALE
+E000001,Solid Tumor Neoplasms,D009371,Neoplasms by Site,Many oncology drugs are tested in the all-comers population of any solid tumor in phase 1. There is a MeSH entry for Hematologic Neoplasms (D019337) but not an equivalent for solid tumors. Placing under Neoplasms by Site (D009371) as this is also where Hematologic Neoplasms is located and is also a site-based representation.
+E000002,Non-alcoholic Steatohepatitis,D065626,Non-alcoholic Fatty Liver Disease,"Non-alcoholic steatohepatitis (NASH) is a distinct disease from Non-alcoholic fatty liver disease (NAFLD), differentiated by the presence of inflammation and liver cell damage. Placing under NAFLD (D065626) as progression to NASH always starts from NAFLD."
